@@ -1,2 +1,2 @@
 # technikum-java-programmierung
-Übungen
+Hausübungen fürs Technikum Wien
